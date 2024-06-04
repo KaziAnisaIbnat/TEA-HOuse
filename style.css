@@ -1,0 +1,69 @@
+.icon{
+    font-size: 26px;
+}
+.icon1{
+    color: goldenrod;
+    font-size: 35px;
+}
+.ni{
+    width: 1140px;
+height: 650px;
+padding-left: 200px;
+padding-right: 200px;
+}
+.img{
+    background-image: url("images/bg_cup.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-bottom: 12px;
+}
+.customising{
+    width: 363px;
+height: 285px;
+flex-shrink: 0;
+background-color:white;
+}
+.p-style{
+font-size: 14px;
+font-style: normal;
+font-weight: 420;
+line-height: 28px;
+color: #4f4b4b;
+}
+.card-style{
+    width: 364px;
+height: 449px;
+border-color: #4e4c4c;
+border-radius: 10px;
+background-color: #f0efef;
+}
+.style-of-img{
+    width: 320px;
+height: 190px;
+padding-top: 35px;
+}
+.design-footer
+{
+    width: 1570px;
+height: 680px;
+background-color: #f9ccd3;
+}
+.footer-img-decoration{
+    width:62px ;
+    height:64px ;
+}
+.footer-icon{
+    font-size: 20px;
+    color: white;
+}
+.icon-color-footer{
+    font-size: 36px;
+    color: black;
+    padding-right: 40px;
+    padding-top: 50px;
+}
+.card-master{
+    width: 270px;
+height: 395px;
+background-color: #ddd8d8;
+}
